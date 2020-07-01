@@ -1,5 +1,6 @@
 Simple epoll server written in c. Tested on Ubuntu 16.04 LTS.
 Tests were done with curl and ab (apache benchmark)
+http_parser is third party code.
 
 1. How to build:
 mkdir build
